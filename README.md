@@ -5,7 +5,7 @@
 * [To Visit This Website](#dovisit)
   
 ## General Info
-### This is my first frontend project as a tribute for Virat Kohli 
+This is my first frontend project as a tribute for Virat Kohli 
 
 ## Technologies
 This project is created with:
