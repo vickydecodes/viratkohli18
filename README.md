@@ -7,7 +7,7 @@
 ## General Info
 ### This is my first frontend project as a tribute for Virat Kohli 
 
-##Technologies
+## Technologies
 This project is created with:
 * HTML
 * CSS
