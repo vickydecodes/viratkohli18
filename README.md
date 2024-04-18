@@ -3,9 +3,8 @@
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [To Visit This Website](#dovisit)
-
   
-##General Info
+## General Info
 ### This is my first frontend project as a tribute for Virat Kohli 
 
 ##Technologies
