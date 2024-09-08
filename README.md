@@ -16,4 +16,4 @@ This project is created with:
 
 ## To Visit This Website
 
-[Click here](https://vicky-at-web.github.io/viratkohli18/viraat2.html)
+[Click here](https://vickydecodes.github.io/viratkohli18/viraat2.html)
